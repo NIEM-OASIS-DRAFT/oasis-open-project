@@ -61,7 +61,7 @@ Any community member may submit a request for recall of a TSC member to the PGB 
 
 ## Incubation Process
 
-At this time, new projects may be accepted into the NIEM OASIS at the sole discretion of the PGB.
+At this time, new projects may be accepted into NIEM OASIS at the sole discretion of the PGB.
 
 ## Updating Governance
 

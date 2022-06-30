@@ -26,3 +26,6 @@ Decisions on the following items must be made based on a [Simple Majority Vote](
 - Recommending work to the PGB for promotion to the standards track
 - Appointment of new Maintainers
 
+## Updating Governance
+
+All substantive changes in Governance require a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB.
